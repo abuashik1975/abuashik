@@ -8,6 +8,9 @@ public class Github {
 		System.out.println(s);
 		int i =10;
 		System.out.println(i);
+		
+		String n="hihello";
+		System.out.println(n);
 	}
 
 }
